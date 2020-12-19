@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9+w7eC9xY4B04LgyhtGeNMbyPog4KLLDG4DsZ2gMrabS0MUDR1WGucky/StsYXYV83z4qy3rofPYJffSMjM61A==",
+  "success": true,
+  "projectFilePath": "C:\\Desarrollo\\BiceIndicadores.Api\\BusinesObjects\\Bice.BusinesObjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.BusinessActions.deps.json
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.BusinessActions.dll
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.BusinessActions.pdb
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.BusinesObjects.dll
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.Context.dll
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.DataAccess.dll
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.BusinesObjects.pdb
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.DataAccess.pdb
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\bin\Release\netstandard2.0\Bice.Context.pdb
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.csprojAssemblyReference.cache
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.AssemblyInfoInputs.cache
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.AssemblyInfo.cs
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.csproj.CoreCompileInputs.cache
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.csproj.CopyComplete
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.dll
+D:\Jonni\Proyectos\Indecon\BiceIndicadores.Api\BusinessActions\obj\Release\netstandard2.0\Bice.BusinessActions.pdb

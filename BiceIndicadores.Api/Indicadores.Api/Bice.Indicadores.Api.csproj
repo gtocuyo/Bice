@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>2167ef37-3c5b-4a32-831f-582b13e37e2f</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinesObjects\Bice.BusinesObjects.csproj" />
+    <ProjectReference Include="..\BusinessActions\Bice.BusinessActions.csproj" />
+  </ItemGroup>
+
+
+</Project>
